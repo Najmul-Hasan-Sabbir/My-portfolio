@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/project_1.png", // Changed to .jpg
     tags: ["React", "Node.js", "MongoDB", "Express"],
     demoUrl: "#",
-    githubUrl: "https://github.com/Najmul-Hasan-Sabbir/Real_Estate_Management", // Specific link
+    githubUrl: "https://github.com/Najmul-Hasan-Sabbir/Full-Stack_-Real-Estate_Management_System-", // Specific link
   },
   {
      id: 2,
